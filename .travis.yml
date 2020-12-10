@@ -1,4 +1,5 @@
 language: python
+arch: arm64
 env:
   global:
     - COVERAGE_CMD="coverage run -m"
